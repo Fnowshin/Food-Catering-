@@ -1,6 +1,51 @@
+
+body {
+    background-color: #e7cccc;
+}
+h1{
+    font-size: 30px;
+    font-family: 'Rubik Moonrocks', cursive;
+    border: 30%;
+    text-align: center;
+    margin: 10%;
+}
+h2{
+    text-align: center;
+    font-family: 'Rubik Moonrocks', cursive;
+    color: darkorange
+}
+p {
+    text-align: justify;
+    margin: 5%;
+    font-size: 15px;
+    font-family: 'Arima', cursive;
+
+}
+
 section {
     display: flex;
 }
 .years {
-    border: 5px;
+    width: 50%;
+}
+.intro {
+    width: 50%;
+}
+.intro img{
+    width: 80%;
+    border-radius: 10%;
+    margin: 5% 0;
+    margin-left: 10%;
+}
+.chobi {
+    display: flex;
+    margin-left: 50px ;
+    margin-bottom: 0;
+    padding: 20px;
+
+}
+.second-part{
+    background: url(Images/Frame-B.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
