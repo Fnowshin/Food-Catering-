@@ -139,3 +139,18 @@ section {
     padding-right: 50px;
     padding-left: 50px;
 }
+footer{
+    background-color: palevioletred;
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 50px;
+    padding-bottom: 120px;
+}
+
+.footer1{
+    font-size: larger;
+}
+.last{
+    text-align: center;
+    font-size: larger;
+}
